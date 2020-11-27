@@ -1,0 +1,121 @@
+*{
+	padding:0;
+	margin:0;
+}
+body .bgg{
+	background-image:url("../images/G33.jpg");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	
+}
+body .background1{
+	/*background-image:url("../images/2.jpeg");*/
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	
+}
+.logo{
+	height:90px;
+	width:80px;
+	margin-left:40px;
+	
+}
+
+.nav-item:hover{
+	background-color:lightgray;
+}
+
+.navbar{
+	background-image: linear-gradient(to right,#333333,#555555	);				/*#ffa700,#0057e7  #c9c9ff,#f1cbff*/
+	padding: 0; !important;
+}
+
+.t{
+	color:white;
+}
+
+/*
+#form{
+	background-color:#EFEBEA;
+	margin:auto;
+	border:solid 2px;
+	margin-top:50px;
+	height:500px;
+}*/
+
+
+
+/*     parlex
+.back{
+	width:100%;
+	height:100vh;
+	background-image:url('sub-banner-3.jpg');
+	background-repeat:repeat-y;
+	background-size:100% 100%;
+	background-attachment:fixed;
+	
+}*/
+
+.about p::first-letter{
+	font-size:40px;
+}
+
+
+.container{
+	margin-top:25px;
+}
+
+.zoom{
+	transition:2sec ease-out;
+}
+.zoom>img:hover{
+	transform:scale(1.1);
+}
+
+.info{
+	margin-top:100px
+	
+	
+}
+
+#footer{
+	padding:10px;
+}
+
+#services .sd{
+	border-radius:20px;
+	
+}
+
+.box{
+	border-radius:100px;
+	padding:4px;
+}
+.box1{
+	border-radius:25px;
+	
+}
+
+h1{
+	font-style:oblique;
+}
+
+
+
+
+
+/*
+
+.gotop{
+	position:fixed;
+	width:100px;
+	height:150px;
+	background:;
+	bottom:40px;
+	right:50px;
+	text-decoration:none;
+	text-align:center;
+	line-height50px;
+}*/
